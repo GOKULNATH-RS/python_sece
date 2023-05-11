@@ -25,5 +25,5 @@ else:
 
 
 
-print("Maximum",maxi)
+print("Maximum number",maxi)
 print("minimum",mini)
