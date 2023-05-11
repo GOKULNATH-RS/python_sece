@@ -26,4 +26,4 @@ else:
 
 
 print("Maximum number",maxi)
-print("minimum",mini)
+print("minimum number",mini)
