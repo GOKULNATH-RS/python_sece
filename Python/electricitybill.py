@@ -15,4 +15,4 @@ elif(unit>300 and unit<=350):
 else:
     amt=1500
 
-print(amt)
+print("Bill amount", amt)
