@@ -1,4 +1,4 @@
-unit=int(input("Enter the units : "))
+unit=int(input("Enter the units consumed : "))
 
 if(unit<=100):
     amt=unit*1.5
