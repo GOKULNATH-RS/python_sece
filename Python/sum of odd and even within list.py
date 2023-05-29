@@ -13,4 +13,4 @@ while(i<len(lst)):
 
     
 
-print("Odd sum",osum,"Even sum", esum)
+print("Odd Sum",osum,"Even sum", esum)
